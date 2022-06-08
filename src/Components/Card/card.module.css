@@ -13,11 +13,11 @@
   line-height: 48px;
   cursor: pointer;
   color: #68717a;
+  transition: transform 0.2s ease-in;
 }
 
-.symbol:hover {
-  font-size: 56px;
-  transition: 0.3s;
+.card:hover .symbol {
+  transform: scale(1.3);
 }
 
 .title {
