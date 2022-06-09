@@ -1,0 +1,131 @@
+body {
+  text-align: center;
+  font-family: "Inter";
+  font-style: normal;
+  background: #f8f5f2;
+  color: #232323;
+}
+
+h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 87px;
+  color: #fffffe;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 36px;
+  color: #fffffe;
+}
+
+header {
+  background: #078080;
+  box-sizing: content-box;
+  position: relative;
+  padding-top: 5px;
+}
+
+.container {
+  width: 1000px;
+  margin: auto;
+}
+
+.list {
+  margin-top: 80px;
+  margin-bottom: 40px;
+  display: grid;
+  grid-template-columns: repeat(3, 316px);
+  grid-template-rows: repeat(2, 184px);
+  gap: 22px 16px;
+  justify-content: center;
+}
+
+input {
+  position: relative;
+  top: 32px;
+  padding-left: 32px;
+  background: rgba(255, 255, 255, 0.969);
+  border: 1px solid #ced4da;
+  box-sizing: border-box;
+  border-radius: 4px;
+  width: 820px;
+  height: 64px;
+  outline: none;
+  transition: 0.3s;
+}
+
+input:focus {
+  transform: scale(120%);
+  transition: 0.3s;
+}
+
+input::placeholder {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 21px;
+  color: #abb5be;
+}
+
+footer {
+  border-top: solid #ced4da;
+  margin-top: 50px;
+  padding: 13px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 21px;
+  color: #6c757d;
+}
+
+ul {
+  margin: 0;
+}
+
+li {
+  display: inline;
+}
+
+button {
+  padding: 10px;
+  background-color: #ffffff;
+  border: 1px solid #dee2e6;
+  color: #078080;
+  cursor: pointer;
+}
+button:hover {
+  color: #ffffff;
+  background-color: #078080;
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-between;
+}
+
+.active {
+  color: #ffffff;
+  background-color: #078080;
+}
+
+h3 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 87px;
+  color: #078080;
+}
+
+select {
+  appearance: none;
+  border: 1px solid rgba(22, 22, 22, 0.237);
+  border-radius: 4px;
+  padding: 5px;
+  margin: 10px;
+  width: 60px;
+  font-family: inherit;
+  font-size: inherit;
+  cursor: inherit;
+  line-height: inherit;
+}
