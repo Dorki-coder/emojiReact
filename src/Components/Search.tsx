@@ -6,7 +6,7 @@ import { useEffect } from "react";
 export type DataType = {
   id: number;
   keywords: string;
-  title: string;
+  title: string;  
   symbol: string;
 };
 
