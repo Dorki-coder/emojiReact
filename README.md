@@ -27,7 +27,7 @@
 
 ### Links
 
-- Live Site URL: https://dorki-coder.github.io/github-user-search-app/](https://dorki-coder.github.io/emojiReact/
+- Live Site URL: https://dorki-coder.github.io/emojiReact/
 
 ### Built with
 
@@ -40,4 +40,4 @@
 
 ## Author
 
-- GitHub - [@Dorki-coder]([https://www.frontendmentor.io/profile/Dorki-coder](https://github.com/Dorki-coder))
+- GitHub - [@Dorki-coder](https://github.com/Dorki-coder)
