@@ -2,22 +2,18 @@
 
 Это учебный проект с онлайн курсов Saind Code 
 
-## Table of contents
-
 - [Overview](#overview)
   - [Задача](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
+  - [Ссылки](#links)
   - [Built with](#built-with)
-- [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+  - [Автор](#author)
 
 ## Overview
 
 ### The challenge
 
-Users should be able to:
+Цель проетка
 
   - сверстать
   - выводить карточки со всеми emoji
